@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+text-align: center;
+padding: 0px
+}
+
+nav, a {
+text-align: center;
+background: gray;
+padding: 0px
+
+}
+figure, img, figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+
+}
